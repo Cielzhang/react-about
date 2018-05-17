@@ -1,1 +1,14 @@
-@import '~antd/dist/antd.css'
+@import '~antd/dist/antd.css';
+
+.shopping-car {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+
+.icon-wrapper {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 2px 2px #eee;
+}
